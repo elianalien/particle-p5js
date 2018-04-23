@@ -1,17 +1,14 @@
-let p;
 let particle = []
 
 function setup() {
   // put setup code here
   createCanvas(1280,720);
   background(220);
-
-  p = new Particle();
 }
 
 function draw() {
   //put drawing code here
-  p.show();
+  
 }
 
 function clearCanvas(){

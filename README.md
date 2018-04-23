@@ -1,4 +1,3 @@
-# makan-apa-generator
-makan apa pake p5js
+# particle system using p5js
 
-demo: https://labtek-indie.github.io/makan-apa-generator/ 
+an exploration of js capability in particle system
